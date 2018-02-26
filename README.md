@@ -5,7 +5,7 @@ Primeiramente o projeto foi elaborado em python 2.7, ou seja, se a versão do py
   talvez será necessario rever algumas sintaxes
 Para execução do projeto é necessario o banco de dados SQLITE  em sua maquina.
 É preciso que ambos arquivos (Desafio.py e Connection.py) estejam armazenados no mesmo local.
-  Obs: Os arquivos estão na aba <Wiki>
+  Obs: Os arquivos estão na aba --Wiki--
 
 #Inicialização
 Ao iniciar o programa com o banco de dados ja instalado, será criado uma tabela climatempo, ao mesmo tempo,
