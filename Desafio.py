@@ -7,7 +7,7 @@ import requests
 import json
 
 #Realizando a Criação da Tabela no Banco de Dados
-import connection
+import Connection
 
 #Utilizado para o Banco de Dados
 import sqlite3
